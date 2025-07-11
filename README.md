@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Ahmed Raza 👋</h1>
 <p align="center">
-  <strong>CS Student @ Air University | AI & Full-Stack Enthusiast | AU’27</strong>
+  <strong>CS Student @ Air University | Learning AI/ML | AU’27</strong>
 </p>
 
 <p align="center">
