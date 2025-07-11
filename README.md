@@ -1,6 +1,7 @@
 <h1 align="center">Hey, I'm Ahmed Raza 👋</h1>
 <p align="center">
-  <strong>CS Student @ Air University | Learning AI/ML | AU’27</strong>
+  <strong>
+Exploring AI & App Development | Intern at INARA Technologies | X Intern @PK CERT | Open to Roles & Projects | Passionate About Innovation & Problem-Solving | AU'27 |</strong>
 </p>
 
 <p align="center">
