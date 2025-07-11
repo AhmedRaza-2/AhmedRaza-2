@@ -28,16 +28,12 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma)
 ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -47,12 +43,22 @@
 ### 📁 Featured Projects
 
 - 🔗 [Portfolio Website](https://ahmedraza-2.github.io/Portfolio/)  
-- 🛡️ AI-Based Phishing Email Detection  
+- 🛡️ AI-Based Phishing Email Detection
+- 💬 AI Customer Support Bot
 - 💬 Blazor Real-Time Chat with SignalR  
-- ⚙️ USB Redirection System (C + Flutter)  
-- 🎮 Merge Game Auto-Player (JavaScript)
+- ⚙️ AI Resume Generator (Flutter)  
+- 🌐 Voice Of Goodness (Bootstrap)  
 
 ---
+### 📊 Highlights
+
+- 🕒 **2+ Years** of Practical Experience  
+- 🚀 **20+ Projects** Successfully Completed  
+- 🤝 **20+ Satisfied Clients**
+
+---
+
+### 🧰 Services I Offer
 
 ### 📫 Connect With Me
 
